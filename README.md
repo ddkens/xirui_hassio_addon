@@ -10,3 +10,5 @@ tested on v0.9.2
 
 作者：@Sunbelife
 Made by @Sunbelife
+
+![](http://ww4.sinaimg.cn/large/006tNc79ly1g3acl0qs8sj30io0l4jt4.jpg)
