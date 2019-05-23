@@ -11,4 +11,13 @@ tested on v0.9.2
 作者：@Sunbelife
 Made by @Sunbelife
 
-![](http://ww4.sinaimg.cn/large/006tNc79ly1g3acl0qs8sj30io0l4jt4.jpg)
+教程见： 
+Help:
+
+[这里 Here](https://bbs.hassbian.com/forum.php?mod=viewthread&tid=4740&page=1&extra=#pid129179)
+
+预览图：
+Preview:
+
+![](http://ww3.sinaimg.cn/large/006tNc79ly1g3biad0pt3j305k062dg1.jpg)
+
