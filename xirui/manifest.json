@@ -1,6 +1,8 @@
 {
 	"domain": "xiruisensor",
 	"name": "XiRui sensor custom component",
+	"version": "0.1.0",
+        "config_flow": false,
 	"documentation": "https://github.com/Sunbelife/homeassistant_custom_components_sirui_simens",
 	"requirements": [],
 	"dependencies": [],
