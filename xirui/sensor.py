@@ -46,10 +46,16 @@ def get_hcho():
 
 class Temperature_Sensor(Entity):
 	"""Representation of a Sensor."""
+	self._unique_id = 'xirui18050570028032571496'
 
 	def __init__(self):
 		"""Initialize the sensor."""
 		self._state = None
+	
+	@property
+        def unique_id(self) -> str:
+                # Return a unique ID.
+                return self._unique_id
 
 	@property
 	def name(self):
