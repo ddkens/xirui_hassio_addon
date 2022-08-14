@@ -1,5 +1,5 @@
 {
-	"domain": "xiruisensor",
+	"domain": "xirui",
 	"name": "XiRui sensor custom component",
 	"version": "0.1.0",
         "config_flow": false,
