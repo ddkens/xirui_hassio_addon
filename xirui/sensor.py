@@ -53,7 +53,7 @@ class Temperature_Sensor(Entity):
 		self._state = None
 	
 	@property
-        def unique_id(self) -> str:
+        def unique_id(self):
                 # Return a unique ID.
                 return self._unique_id
 
