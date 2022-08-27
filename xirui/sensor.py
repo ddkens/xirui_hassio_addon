@@ -14,7 +14,7 @@ def loaddata():
 			'accept-language':'zh-cn'
 			  }
 	data = {
-		"serialNo" : "18050570028032571496"
+		"serialNo" : "18112370021907514283"
 	}
 	data = json.dumps(data)
 	re = requests.post("https://server.developmentservice.cn//device/realTimeData", data = data, headers = headers, verify=False)
@@ -46,16 +46,10 @@ def get_hcho():
 
 class Temperature_Sensor(Entity):
 	"""Representation of a Sensor."""
-	self._unique_id = 'xirui18050570028032571496'
 
 	def __init__(self):
 		"""Initialize the sensor."""
 		self._state = None
-	
-	@property
-        def unique_id(self):
-                # Return a unique ID.
-                return self._unique_id
 
 	@property
 	def name(self):
